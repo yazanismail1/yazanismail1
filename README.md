@@ -4,9 +4,10 @@
 
 >_**So you can write a code to solve the Sudoko puzzle, yet you might not be able to solve it manually.**_ I'm Yazan Alfarra, a **Software Developer** with a background in  _Civil Engineering_ and this my **WHY** behind getting into software development.
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yazanismail1&show_icons=true) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yazanismail1)](https://github.com/anuraghazra/github-readme-stats)
 </br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yazanismail1&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yazanismail1)](https://github.com/anuraghazra/github-readme-stats)
 
 </br>
 
