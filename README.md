@@ -6,7 +6,7 @@
 
 |||
 |---|---|
-|![](https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6)|I started my journey by teaching myself to code via Udemy and I'm curentlly enrolled in a professional bootcamp with LTUC powered by Code Fellows to enhance and develop as a Fullstack Software Developer using Python.|
+|![](https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6)|From Civil Engineering to Software Engineering, I started my journey by teaching myself to code via Udemy and after that I joined a professional bootcamp with LTUC powered by Code Fellows to enhance and develop as a Fullstack Software Developer using Python. This is me Yazan, an Engineer with passion towards Data and Web.|
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/yazanismail1) 
