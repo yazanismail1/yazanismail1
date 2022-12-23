@@ -33,7 +33,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/>
 </p>
 <br>
-<h2>My Stats 📊</h2>
+<h2>📊 My Stats</h2>
 <div>
 <p ><img align="right" src="https://media2.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif?cid=ecf05e47s2b52b3vi3da0o5fw94us8ghsms723j5ejcgpjrb&rid=giphy.gif&ct=g" height=370px/></p>
 
