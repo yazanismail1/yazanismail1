@@ -44,7 +44,7 @@
 </p>
 </div>
 
-<h2>Let's Talk 📞</h2>
+<h2>📞 Let's Talk</h2>
 <div style="display:flex; gap: 20px">
 <a href="https://github.com/yazanismail1" ><img src='https://cdn-icons-png.flaticon.com/512/733/733553.png' alt='github' height='30'/></a>
 <a href="https://www.linkedin.com/in/yazan-alfarra/" ><img src='https://cdn-icons-png.flaticon.com/512/2111/2111499.png' alt='linkedin' height='30'/></a>
