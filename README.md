@@ -36,7 +36,7 @@
 <br>
 <h2>My Stats 📊</h2><br>
 <div>
-<p><img align="right" src="https://media2.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif?cid=ecf05e47s2b52b3vi3da0o5fw94us8ghsms723j5ejcgpjrb&rid=giphy.gif&ct=g" width=40%/></p>
+<p><img align="right" src="https://media2.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif?cid=ecf05e47s2b52b3vi3da0o5fw94us8ghsms723j5ejcgpjrb&rid=giphy.gif&ct=g"/></p>
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=yazanismail1&show_icons=true&theme=dark" alt="Yazan's GitHub stats" width=50%/><br>
