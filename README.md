@@ -2,11 +2,13 @@
 <p align="center"><em><strong>So you can write a code to solve the Sudoko puzzle, yet you might not be able to solve it manually.</strong></em> I'm Yazan Alfarra, a <strong>Software Developer</strong> with a background in  <em>Civil Engineering</em> and this my <strong>WHY</strong> behind getting into software development.</p>
 <br>
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?text=Software Developer&animation=fadeIn&type=waving&color=gradient&height=100"/>
+
+![header](https://capsule-render.vercel.app/api?text=SoftwareDeveloper&animation=fadeIn&type=waving&color=gradient&height=100)
+
 </div>
 
 <div align="center">
- 
+
 ![Snake animation](https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/5ccdcc10988dde04d2cc849e4a6ffaa0010c2267/resources/img/grid-snake.svg)
        
 </div>
