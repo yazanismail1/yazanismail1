@@ -2,9 +2,7 @@
 <p align="center"><em><strong>So you can write a code to solve the Sudoko puzzle, yet you might not be able to solve it manually.</strong></em> I'm Yazan Alfarra, a <strong>Software Developer</strong> with a background in  <em>Civil Engineering</em> and this my <strong>WHY</strong> behind getting into software development.</p>
 <br>
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?text=Software Developer &animation=fadeIn&type=waving&color=gradient&height=100"/>
-
-
+<img src="https://capsule-render.vercel.app/api?text=Software Developer&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </div>
 
 <div align="center">
@@ -38,8 +36,8 @@
 <br>
 <h2>My Stats 📊</h2><br>
 <div style="display:flex; gap: 15px">
-<img src="https://github-readme-stats.vercel.app/api?username=yazanismail1&show_icons=true&theme=dark" alt="Yazan's GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yazanismail1&show_icons=true&theme=dark&locale=en&layout=compact" alt="Yazan's GitHub stats" height=195px/>
+<img src="https://github-readme-stats.vercel.app/api?username=yazanismail1&show_icons=true&theme=dark" alt="Yazan's GitHub stats" width=50% />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yazanismail1&show_icons=true&theme=dark&locale=en&layout=compact" alt="Yazan's GitHub stats" width=50%/>
 </div><br>
 
 <h2>Let's Talk 📞</h2><br>
