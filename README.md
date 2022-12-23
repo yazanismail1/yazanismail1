@@ -45,13 +45,8 @@
 <h2>Let's Talk 📞</h2><br>
 <div style="display:flex; gap: 15px">
 <a href="https://github.com/yazanismail1" ><img src='https://cdn-icons-png.flaticon.com/512/733/733553.png' alt='github' height='30'/></a>
-
 <a href="https://www.linkedin.com/in/yazan-alfarra/" ><img src='https://cdn-icons-png.flaticon.com/512/2111/2111499.png' alt='linkedin' height='30'/></a>
-
 <a href="https://twitter.com/yaz_ism" ><img src='https://cdn-icons-png.flaticon.com/512/733/733579.png' alt='twitter' height='30'/></a>
-
 <a href="https://api.whatsapp.com/send?phone=00962775818618" ><img src='https://cdn-icons-png.flaticon.com/512/220/220236.png' alt='whatsapp' height='30'/></a>
-
 <a href="mailto:y.alfarra@outlook.com" ><img src='https://cdn-icons-png.flaticon.com/512/732/732223.png' alt='email' height='30'/></a>
-
 </div>
