@@ -1,11 +1,9 @@
-![Banner](./assests/banner.png)
-<p align="center"><em><strong>So you can write a code to solve the Sudoko puzzle, yet you might not be able to solve it manually.</strong></em> I'm Yazan Alfarra, a <strong>Software Developer</strong> with a background in  <em>Civil Engineering</em> and this my <strong>WHY</strong> behind getting into software development.</p>
-<br>
+
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?text=SoftwareDeveloper&animation=fadeIn&type=waving&color=gradient&height=100)
-
 </div>
+<p align="center"><em><strong>So you can write a code to solve the Sudoko puzzle, yet you might not be able to solve it manually.</strong></em> I'm Yazan Alfarra, a <strong>Software Developer</strong> with a background in  <em>Civil Engineering</em> and this my <strong>WHY</strong> behind getting into software development.</p>
 
 <div align="center">
 
