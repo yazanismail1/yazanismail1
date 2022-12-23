@@ -35,13 +35,21 @@
 
 <br>
 <h2>My Stats 📊</h2><br>
-<div style="display:flex; gap: 15px">
-<img src="https://github-readme-stats.vercel.app/api?username=yazanismail1&show_icons=true&theme=dark" alt="Yazan's GitHub stats" width=50% />
+<div>
+<p><img align="right" src="https://media2.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif?cid=ecf05e47s2b52b3vi3da0o5fw94us8ghsms723j5ejcgpjrb&rid=giphy.gif&ct=g" width=45%/></p>
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=yazanismail1&show_icons=true&theme=dark" alt="Yazan's GitHub stats" width=50%/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yazanismail1&show_icons=true&theme=dark&locale=en&layout=compact" alt="Yazan's GitHub stats" width=50%/>
-</div><br>
+</p>
+
+</div>
+
+
 
 <h2>Let's Talk 📞</h2><br>
-<div style="display:flex; gap: 15px">
+<div style="display:flex; gap: 20px">
 <a href="https://github.com/yazanismail1" ><img src='https://cdn-icons-png.flaticon.com/512/733/733553.png' alt='github' height='30'/></a>
 <a href="https://www.linkedin.com/in/yazan-alfarra/" ><img src='https://cdn-icons-png.flaticon.com/512/2111/2111499.png' alt='linkedin' height='30'/></a>
 <a href="https://twitter.com/yaz_ism" ><img src='https://cdn-icons-png.flaticon.com/512/733/733579.png' alt='twitter' height='30'/></a>
