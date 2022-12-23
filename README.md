@@ -12,7 +12,7 @@
 </div>
 <br>
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2><br>
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
@@ -32,9 +32,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/>
 </p>
-
 <br>
-<h2>My Stats 📊</h2><br>
+<h2>My Stats 📊</h2>
 <div>
 <p ><img align="right" src="https://media2.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif?cid=ecf05e47s2b52b3vi3da0o5fw94us8ghsms723j5ejcgpjrb&rid=giphy.gif&ct=g" height=370px/></p>
 
@@ -45,7 +44,7 @@
 </p>
 </div>
 
-<h2>Let's Talk 📞</h2><br>
+<h2>Let's Talk 📞</h2>
 <div style="display:flex; gap: 20px">
 <a href="https://github.com/yazanismail1" ><img src='https://cdn-icons-png.flaticon.com/512/733/733553.png' alt='github' height='30'/></a>
 <a href="https://www.linkedin.com/in/yazan-alfarra/" ><img src='https://cdn-icons-png.flaticon.com/512/2111/2111499.png' alt='linkedin' height='30'/></a>
