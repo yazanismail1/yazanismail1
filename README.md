@@ -44,9 +44,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yazanismail1&show_icons=true&theme=dark&locale=en&layout=compact" alt="Yazan's GitHub stats" width=50%/>
 </p>
 </div>
-<br>
-
-
 
 <h2>Let's Talk 📞</h2><br>
 <div style="display:flex; gap: 20px">
