@@ -35,7 +35,6 @@
 
 <br>
 <h2>My Stats 📊</h2><br>
-<div style="vertical-alig:top">
 <p><img align="right" src="https://media2.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif?cid=ecf05e47s2b52b3vi3da0o5fw94us8ghsms723j5ejcgpjrb&rid=giphy.gif&ct=g" width=40%/></p>
 
 <p align="left">
@@ -43,7 +42,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yazanismail1&show_icons=true&theme=dark&locale=en&layout=compact" alt="Yazan's GitHub stats" width=50%/>
 </p>
-</div>
+<br>
 
 
 
